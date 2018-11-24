@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import fetchGiph from "./gifSearchUtil";
 
 const doorImgUrl =
-  "https://uploads.codesandbox.io/uploads/user/6a519f90-f347-4996-9834-926d26f2b92a/YFBD-Screenshot%202018-11-20%20at%2022.12.08.png";
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnLzNMDeyXFCFCLnHZ0eOMQAvuIVQI0vh7gXRpVMADD6-LBxva";
 
 class Door extends Component {
   constructor(props) {
